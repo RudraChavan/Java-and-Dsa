@@ -1,5 +1,3 @@
-package Day_01;
-
 class Hello{
     public static void main(String[] args) {
         int money = 2000;
